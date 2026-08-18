@@ -45,24 +45,3 @@
 
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-     <img width=390 src="https://github-readme-stats.vercel.app/api?username=habibmrizki&theme=react&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
-         <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=habibmrizki&theme=react&hide_border=true" alt="streak stats"/>
-  <br/>
-     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmrizki&theme=react&show_icons=true&hide_border=true&layout=compact" alt="streak stats"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-<br/><br/>
-
-<hr/>
